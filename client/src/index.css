@@ -1,0 +1,17 @@
+.pics-display{
+    height: 150px;
+    width: 150px; 
+    margin: auto; 
+
+
+}
+.pics-container {
+    width: 688px;
+    align-items: center;  
+    display: flex; 
+    flex-direction: row; 
+    flex-wrap: wrap; 
+    justify-content: center; 
+    margin: auto; 
+
+}
